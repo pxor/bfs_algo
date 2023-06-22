@@ -1,7 +1,7 @@
 from collections import deque
 from pathlib import PosixPath
 
-
+# change structure
 def tree_style(depth):
     for _ in range(0, depth):
         print("--", end="")

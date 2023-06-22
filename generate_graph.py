@@ -1,7 +1,7 @@
 import os
 
 
-# Generate graph from root directory excluding 'venv' and hidden that start with '.'
+# Generate graph from root directory excluding 'venv' and hidden that start with '.'.
 def g_graph(root_directory):
     graph = {}
 
